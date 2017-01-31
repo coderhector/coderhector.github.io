@@ -99,16 +99,17 @@ header nav ul li a:hover {
 
 .principal {
 	position: relative;
-	color: #000;
+	color: #fff;
 }
 
 .principal article {
 	padding: 20px;
-	background: #fff;
+	background: #tranparent;
 	margin-bottom: 20px;
 }
 
 .principal article p {
+	color: #fff;
 	margin-bottom: 20px;
 	line-height: 24px;
 	font-family: helvetica, arial, sans-serif;
